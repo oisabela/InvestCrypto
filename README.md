@@ -1,6 +1,6 @@
 - Design App
 
-https://media.discordapp.net/attachments/988538063514910810/1054151651738525836/AppInvest.png
+![DesignApp](https://media.discordapp.net/attachments/988538063514910810/1054151651738525836/AppInvest.png)&nbsp;
 
 # InvestAppIsa
 
