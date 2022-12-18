@@ -1,6 +1,6 @@
 # InvestAppIsa
 
-A new Flutter project.
+Simple Project in Flutter
 
 ## Getting Started
 
