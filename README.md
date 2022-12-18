@@ -2,24 +2,13 @@
 
 ![DesignApp](https://media.discordapp.net/attachments/988538063514910810/1054151651738525836/AppInvest.png)&nbsp;
 
-# InvestAppIsa
+# More
 
-Simple Project in Flutter
+A simple crypto app under development, feel free to use it, updates have occurred for new functions and design improvement
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
-
-### IMPORTANT:
-
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
-
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
-
-This command creates the generated files that parse each Record from Firestore into a schema object.
+Project are built to run on the Flutter _stable_ release.
 
 ### Getting started continued:
 
